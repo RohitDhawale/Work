@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo App</string>
+    <string name="no_movies_shows_list_to_display">No Movies/ Shows List to Display</string>
+</resources>
